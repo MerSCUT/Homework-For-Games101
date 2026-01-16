@@ -1,0 +1,7 @@
+{
+  "name": "games101-assignment-0",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "eigen3"
+  ]
+}
